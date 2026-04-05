@@ -87,7 +87,7 @@ algorithm-mar
 
 | Day | 문제 | 난이도 | 링크 |
 |:--:|:--|:--:|:--|
-| **4일차 (월)** | - | 골드  | https://www.acmicpc.net/problem/ |
+| **4일차 (월)** | 스카이라인 쉬운거 | 골드 IV | https://www.acmicpc.net/problem/1863 |
 | **5일차 (화)** | - | 골드  | https://www.acmicpc.net/problem/ |
 | **6일차 (수)** | - | 골드  | https://www.acmicpc.net/problem/ |
 | **7일차 (목)** | - | 골드  | https://www.acmicpc.net/problem/ |
