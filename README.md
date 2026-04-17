@@ -104,7 +104,7 @@ algorithm-mar
 | **10일차 (화)** | BFS 스페셜 저지 | 골드 III | https://www.acmicpc.net/problem/16940 |
 | **11일차 (수)** | 싸지방에 간 준하 | 골드 III | https://www.acmicpc.net/problem/12764 |
 | **12일차 (목)** | 🎵니가 싫어 싫어 너무 싫어 싫어 오지 마 내게 찝쩍대지마🎵 - 1 | 골드 III | https://www.acmicpc.net/problem/20440 |
-| **13일차 (금)** | - | 골드  | https://www.acmicpc.net/problem/ |
+| **13일차 (금)** | 피아의 아틀리에 ~신비한 대회의 연금술사~ | 골드 I | https://www.acmicpc.net/problem/15898 |
 | **스터디** | - | 플래티넘  | https://www.acmicpc.net/problem/ |
 
 ---
